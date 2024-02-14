@@ -1,0 +1,13 @@
+li a {
+    color: white;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+ul li a:hover{
+    color: #8b7430;
+
+}
+.body {
+  background-color: #000105;
+}
